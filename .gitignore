@@ -1,0 +1,9 @@
+
+__pycache__/
+runs/
+/dataset
+/results
+/.venv/Lib
+
+*.tmp
+.DS_Store
